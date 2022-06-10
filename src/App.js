@@ -33,7 +33,7 @@ function App() {
           esBotonDeClic={false}
           manejarClic={reiniciarContador}
         />
-
+        <h2>Santiago Hollmann</h2>
       </div>
     </div>
   );
